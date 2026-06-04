@@ -1,5 +1,5 @@
 {
-  "game_name": "Platanus Hack: CDMX Brick Breaker",
-  "description": "Batalla campal por romper la mayor cantidad de ladrillos",
-  "player_mode": "two_player"
+  "game_name": "Flappy Platanus",
+  "description": "Vuela un plátano con sombrero entre nopales sobre el atardecer chilango. Un botón. Una vida. Récord eterno.",
+  "player_mode": "single_player"
 }
